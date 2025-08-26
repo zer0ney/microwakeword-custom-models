@@ -3,7 +3,8 @@
   "wake_word": "glados",
   "author": "peenfart",
   "website": "https://www.kevinahrendt.com/",
-  "model": "https://github.com/zer0ney/microwakeword-custom-models/raw/refs/heads/main/glados.tflite",
+  "model": "./glados.tflite",
+  "trained_languages": ["en"],
   "version": 2,
   "micro": {
     "probability_cutoff": 0.97,
