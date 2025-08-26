@@ -3,7 +3,7 @@
   "wake_word": "hey dick head",
   "author": "peenfart",
   "website": "https://www.kevinahrendt.com/",
-  "model": "https://github.com/zer0ney/microwakeword-custom-models/raw/refs/heads/main/hey_dick_head.tflite",
+  "model": "./hey_dick_head.tflite",
   "version": 2,
   "micro": {
     "probability_cutoff": 0.97,
