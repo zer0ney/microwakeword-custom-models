@@ -3,7 +3,8 @@
   "wake_word": "hey dick head",
   "author": "peenfart",
   "website": "https://www.kevinahrendt.com/",
-  "model": "hey_dick_head.tflite",
+  "model": "./hey_dick_head.tflite",
+  "trained_languages": ["en"],
   "version": 2,
   "micro": {
     "probability_cutoff": 0.97,
